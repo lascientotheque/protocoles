@@ -1,0 +1,1 @@
+Ce repository est un monorepo contenant les activités rédigées par Pascal Flores (et d'autres s'ils le souhaitent) pour La Scientothèque.
